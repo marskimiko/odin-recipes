@@ -6,24 +6,34 @@
 }
 
 body {
-  width: 500px;
-  margin: 0 auto;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(240, 178, 178);
 }
 
 .recipe {
   background-color: black;
-  color:rgb(122, 214, 73);
+  color:rgb(212, 22, 22);
+}
+
+.recipe-card {
+  width: 1000px;
+  text-align: center;
+  background-color: rgb(255, 255, 255);
+  margin: 20px auto;
+  padding: 20px;
+  border: 2px solid black;
+  box-shadow: 1px 1px 4px rgba(0, 0, 0, .5); 
 }
 
 h1 {
   /* display: inline-block; */
-  text-align: center;
+  /* text-align: center;
   padding: 10px 15px;
-  margin-top: 0 auto;
+  margin-top: 0 auto; */
 
 }
 
 ul {
-  text-align: center;
+  /* text-align: center; */
   list-style: none;
 }
