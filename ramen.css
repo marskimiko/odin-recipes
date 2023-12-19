@@ -49,7 +49,7 @@ p {
 }
 
 .recipe-card.feature {
-  border: 2px solid darkred;
+  border: 2px solid rgb(141, 2, 2);
 }
 
 ul li {
